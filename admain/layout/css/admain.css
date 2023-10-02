@@ -1,0 +1,50 @@
+a{
+    text-decoration: none;
+}
+.astreisk{
+    font-size: 30px;
+    color: red;
+    position: absolute;
+    right: 10px;
+    top: 0px;
+}
+/* login style */
+.form{
+    width: 600px;
+    margin: 50px auto;
+    padding: 30px 15px;
+    border-radius: 20px;
+    border: solid 1px rgb(255 255 255 / 90%);
+    box-shadow: -1px -1px 5px 0px #a29a9a4d;
+}
+form input{
+    margin: 20px auto;
+}
+/* mainpag style */
+.main-table tr:first-child td{
+    background-color: #333;
+    color: #fff;
+}
+/* end mainpag */
+/* start dashbord pag */
+.home-static{
+    margin-top: 25px !important;
+    padding-top: 20px !important;
+}
+.home-static .stat{
+    background-color: #EEE;
+    border: 1px solid #c0bfbf;
+    border-radius: 20px;
+    font-size: 25px;
+    margin: 20px 0;
+    padding: 20px 10px; 
+}
+.home-static .stat a{
+    color: #333;
+}
+.home-static .stat span{
+    display: block;
+    font-size: 30px;
+    font-weight: bold;
+}
+/* end dashbord pag */
